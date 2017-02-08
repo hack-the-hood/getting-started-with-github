@@ -1,11 +1,9 @@
 # getting-started-with-github
 ###What is github?
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/https://youtu.be/w3jLJU7DT5E/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/w3jLJU7DT5E)
-
-[![Alt text](https://img.youtube.com/vi/poT5Yd0Ag8I/0.jpg)](https://www.youtube.com/watch?v=poT5Yd0Ag8I)
+[![Alt text](https://img.youtube.com/vi/w3jLJU7DT5E/0.jpg)](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
 ###How can you use Github for Project Management
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/https://youtu.be/SCNWWfXpCw0/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/SCNWWfXpCw0)
+[![Alt text](https://img.youtube.com/vi/SCNWWfXpCw0/0.jpg)](https://www.youtube.com/watch?v=SCNWWfXpCw0)
 
 ###How does this apply to me?
 We are living in a digital world and for version control beyond instant tracking like a google document, we can create schedules and magane a portfolio of design or programming work. Github is an online tool for collaboration and now hosting.
