@@ -21,6 +21,20 @@ Lets start by creating an account.
 
 ![alt text](https://github.com/hack-the-hood/getting-started-with-github/blob/master/Images/Screen%20Shot%202017-02-08%20at%2012.04.16%20PM.png)
 
+5. Now that you have access to the organization you can add new repositories, if you would like to create a resource that you would like to share with the community, you want to create a new repo. Give it a name and now you have an empty repository. (folder)
+
+
+###I want to create a new schedule
+Here is an image of a sample schedule, that you can model
+![alt text]()
+
+
+###Markdown
+When you create a new repository, you probably want to initialize that repo with a README. Make sure you check the box marked Initialize with a README.
+![alt text](https://github.com/hack-the-hood/getting-started-with-github/blob/master/Images/Screen%20Shot%202017-02-08%20at%2012.21.34%20PM.png)
+
+
+
 
 
 
