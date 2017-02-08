@@ -2,6 +2,8 @@
 ###What is github?
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/https://youtu.be/w3jLJU7DT5E/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/w3jLJU7DT5E)
 
+[![Alt text](https://img.youtube.com/vi/poT5Yd0Ag8I/0.jpg)](https://www.youtube.com/watch?v=poT5Yd0Ag8I)
+
 ###How can you use Github for Project Management
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/https://youtu.be/SCNWWfXpCw0/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/SCNWWfXpCw0)
 
