@@ -17,6 +17,10 @@ Lets start by creating an account.
 
 3. If you need help creating or updating a lesson plan or finding a schedule with your information please email or slack your question
 
+4. Once you have logged into your github account and accepted your email invitation to join the organization, you should see a green button in the right hand corner of the screen that says new
+![alt text][https://github.com/hack-the-hood/getting-started-with-github/blob/master/Images/Screen%20Shot%202017-02-08%20at%2012.04.16%20PM.png]
+
+
 
 
 
