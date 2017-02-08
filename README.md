@@ -26,12 +26,27 @@ Lets start by creating an account.
 
 ###I want to create a new schedule
 Here is an image of a sample schedule, that you can model
-![alt text]()
+![alt text](https://github.com/hack-the-hood/getting-started-with-github/blob/master/Images/Screen%20Shot%202017-02-08%20at%203.03.32%20PM.png)
 
+[Click here to view the file](https://github.com/hack-the-hood/spring-bootcamp-2017-developer-schedule)
 
 ###Markdown
 When you create a new repository, you probably want to initialize that repo with a README. Make sure you check the box marked Initialize with a README.
 ![alt text](https://github.com/hack-the-hood/getting-started-with-github/blob/master/Images/Screen%20Shot%202017-02-08%20at%2012.21.34%20PM.png)
+
+Great! Now that you have created a new repository you can add information to your repo. You may want to add folders
+
+-Do you need images (create an images folder)
+..*You can not create a folder from github, but you can upload a folder that is not empty, keep this in mind
+-Do you have other documents that you need? You will be creating these documents in Markdown.
+  +Mardown is a language that you use to write your README files
+  +[Markdown Syntax CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
+  +If you are working on a MAC, there is a great program called [MacDown](https://macdown.uranusjr.com/) which you can use to view your markdown syntax and the way it would render
+  +Here is a video describing the purpose of the readme file
+  [![Alt text](https://img.youtube.com/vi/tsVOMXLnTQ4/0.jpg)](https://www.youtube.com/watch?v=tsVOMXLnTQ4)
+  
+  
+  
 
 
 
