@@ -10,8 +10,11 @@ We are living in a digital world and for version control beyond instant tracking
 
 ###What now?
 Lets start by creating an account.
+
 1. Go to [Github](https://github.com/) and create an account
+
 2. email alivia@hackthehood.org with your github username and I will add you to the Hack The Hood Organization
+
 3. If you need help creating or updating a lesson plan or finding a schedule with your information please email or slack your question
 
 
